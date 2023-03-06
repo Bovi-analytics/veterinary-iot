@@ -1,1 +1,1 @@
-# veterinary-iot
+# Links to the veterinary IoT project
